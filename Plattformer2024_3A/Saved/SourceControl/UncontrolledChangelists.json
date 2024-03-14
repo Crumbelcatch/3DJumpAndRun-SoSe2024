@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/HTKPlattformer2024_3A/Plattformer2024_3A/Content/Input/BasicMovement/IA_Jump.uasset",
+				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/HTKPlattformer2024_3A/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/HTKPlattformer2024_3A/Plattformer2024_3A/Content/Input/BasicMovement/IM_BasicMovement.uasset",
+				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/HTKPlattformer2024_3A/Plattformer2024_3A/Content/Maps/Main.umap"
+			]
+		}
+	]
+}
