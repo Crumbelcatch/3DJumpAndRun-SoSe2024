@@ -1141,3 +1141,593 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.02-07.10.47:039][592]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.02-07.10.47:039][592]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Splash/Splash.Splash
 [2024.04.02-07.10.47:039][592]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Splash/EdSplash.EdSplash
+[2024.04.02-07.11.14:092][828]AssetReimport: Importing new asset /Game/Splash/Splash.
+[2024.04.02-07.11.14:092][828]AssetReimport: Importing new asset /Game/Splash/EdSplash.
+[2024.04.02-07.20.12:317][540]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.04.02-07.20.12:320][540]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2024.04.02-07.20.12:322][540]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-07.20.12:322][540]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-07.20.12:333][540]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.02-07.20.14:061][540]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-07.20.14:153][540]LogShaderCompilers: Display: ================================================
+[2024.04.02-07.20.14:153][540]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.02-07.20.14:153][540]LogShaderCompilers: Display: Total job queries 8, among them cache hits 2 (25.00%)
+[2024.04.02-07.20.14:153][540]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 5 distinct outputs (83.33%)
+[2024.04.02-07.20.14:153][540]LogShaderCompilers: Display: RAM used: 130,68 KiB of 819,20 MiB budget. Usage: 0.02%
+[2024.04.02-07.20.14:153][540]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.02-07.20.14:153][540]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.02-07.20.14:153][540]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.02-07.20.14:153][540]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.02-07.20.14:153][540]LogShaderCompilers: Display: ================================================
+[2024.04.02-07.20.14:163][540]LogSlate: Took 0.004575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.02-07.20.14:607][542]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-07.24.20:167][738]LogViewport: Scene viewport resized to 2213x1069, mode Windowed.
+[2024.04.02-07.24.20:179][739]LogViewport: Scene viewport resized to 2213x1074, mode Windowed.
+[2024.04.02-07.24.20:219][740]LogViewport: Scene viewport resized to 2213x1119, mode Windowed.
+[2024.04.02-07.24.20:238][741]LogViewport: Scene viewport resized to 2213x1155, mode Windowed.
+[2024.04.02-07.24.20:299][742]LogViewport: Scene viewport resized to 2213x1262, mode Windowed.
+[2024.04.02-07.24.20:344][743]LogViewport: Scene viewport resized to 2213x1320, mode Windowed.
+[2024.04.02-07.24.20:398][744]LogViewport: Scene viewport resized to 2213x1341, mode Windowed.
+[2024.04.02-07.24.20:466][747]LogViewport: Scene viewport resized to 2213x1340, mode Windowed.
+[2024.04.02-07.24.20:482][748]LogViewport: Scene viewport resized to 2213x1343, mode Windowed.
+[2024.04.02-07.24.20:512][749]LogViewport: Scene viewport resized to 2213x1352, mode Windowed.
+[2024.04.02-07.24.20:550][750]LogViewport: Scene viewport resized to 2213x1369, mode Windowed.
+[2024.04.02-07.24.20:582][751]LogViewport: Scene viewport resized to 2213x1387, mode Windowed.
+[2024.04.02-07.24.20:615][752]LogViewport: Scene viewport resized to 2213x1402, mode Windowed.
+[2024.04.02-07.24.20:649][753]LogViewport: Scene viewport resized to 2213x1403, mode Windowed.
+[2024.04.02-07.24.20:822][771]LogViewport: Scene viewport resized to 2213x1402, mode Windowed.
+[2024.04.02-07.24.20:834][772]LogViewport: Scene viewport resized to 2213x1400, mode Windowed.
+[2024.04.02-07.24.20:886][773]LogViewport: Scene viewport resized to 2213x1388, mode Windowed.
+[2024.04.02-07.24.20:907][774]LogViewport: Scene viewport resized to 2213x1378, mode Windowed.
+[2024.04.02-07.24.20:927][775]LogViewport: Scene viewport resized to 2213x1366, mode Windowed.
+[2024.04.02-07.24.20:946][776]LogViewport: Scene viewport resized to 2213x1356, mode Windowed.
+[2024.04.02-07.24.20:964][777]LogViewport: Scene viewport resized to 2213x1347, mode Windowed.
+[2024.04.02-07.24.20:982][778]LogViewport: Scene viewport resized to 2213x1338, mode Windowed.
+[2024.04.02-07.24.21:000][779]LogViewport: Scene viewport resized to 2213x1334, mode Windowed.
+[2024.04.02-07.24.21:018][780]LogViewport: Scene viewport resized to 2213x1330, mode Windowed.
+[2024.04.02-07.24.21:152][795]LogViewport: Scene viewport resized to 2213x1332, mode Windowed.
+[2024.04.02-07.24.21:164][796]LogViewport: Scene viewport resized to 2213x1333, mode Windowed.
+[2024.04.02-07.24.21:208][797]LogViewport: Scene viewport resized to 2213x1336, mode Windowed.
+[2024.04.02-07.24.36:492][367]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.02-07.24.36:512][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.02-07.24.36:512][367]PIE: New page: PIE session: Main (02.04.2024, 11:24:36)
+[2024.04.02-07.24.36:522][367]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.02-07.24.36:522][367]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.02-07.24.36:528][367]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.04.02-07.24.36:534][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004978s)
+[2024.04.02-07.24.36:534][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005065s)
+[2024.04.02-07.24.36:552][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.02-07.24.36:555][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-07.24.36:556][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-07.24.36:557][367]LogAIModule: Creating AISystem for world Main
+[2024.04.02-07.24.36:559][367]LogPlayLevel: PIE: World Init took: (0.004387s)
+[2024.04.02-07.24.36:559][367]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.02-07.24.36:559][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.02-07.24.36:559][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.02-07.24.36:559][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.02-07.24.36:559][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.02-07.24.36:559][367]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.02-07.24.36:559][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.02-07.24.36:559][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.02-07.24.36:559][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.02-07.24.36:560][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.02-07.24.36:560][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.02-07.24.36:560][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.02-07.24.36:564][367]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.02-07.24.36:607][367]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2024.04.02-07.24.36:607][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.02-07.24.36:607][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.02-07.24.36:608][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.02-07.24.36:608][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.02-07.24.36:608][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.02-07.24.36:611][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.02-07.24.36:611][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.02-07.24.36:611][367]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.02-07.24.36:611][367]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2024.04.02-07.24.36:611][367]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.02-07.24.36:624][367]LogLoad: Game class is 'BP_GameMode_Main_C'
+[2024.04.02-07.24.36:625][367]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.02-09.24.36
+[2024.04.02-07.24.36:626][367]LogWorld: Bringing up level for play took: 0.002339
+[2024.04.02-07.24.36:630][367]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.04.02-07.24.36:662][367]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.02-07.24.36:664][367]PIE: Server logged in
+[2024.04.02-07.24.36:665][367]PIE: Play in editor total start time 0,158 seconds.
+[2024.04.02-07.24.53:476][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-07.24.53:476][604]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.04.02-07.24.53:477][604]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.02-07.24.53:478][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-07.24.53:484][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.02-07.24.53:488][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-07.24.53:499][604]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.02-07.24.53:502][604]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.02-07.24.53:505][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.02-07.24.53:508][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.02-07.24.53:526][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-07.24.53:533][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.02-07.24.53:579][605]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.04.02-07.26.05:675][947]LogViewport: Scene viewport resized to 2213x1334, mode Windowed.
+[2024.04.02-07.26.05:707][948]LogViewport: Scene viewport resized to 2213x1331, mode Windowed.
+[2024.04.02-07.26.05:732][949]LogViewport: Scene viewport resized to 2213x1326, mode Windowed.
+[2024.04.02-07.26.05:769][950]LogViewport: Scene viewport resized to 2213x1318, mode Windowed.
+[2024.04.02-07.26.05:793][951]LogViewport: Scene viewport resized to 2213x1315, mode Windowed.
+[2024.04.02-07.26.05:819][952]LogViewport: Scene viewport resized to 2213x1313, mode Windowed.
+[2024.04.02-07.26.05:846][953]LogViewport: Scene viewport resized to 2213x1311, mode Windowed.
+[2024.04.02-07.26.05:870][954]LogViewport: Scene viewport resized to 2213x1309, mode Windowed.
+[2024.04.02-07.26.05:896][955]LogViewport: Scene viewport resized to 2213x1308, mode Windowed.
+[2024.04.02-07.26.05:923][956]LogViewport: Scene viewport resized to 2213x1306, mode Windowed.
+[2024.04.02-07.26.05:949][957]LogViewport: Scene viewport resized to 2213x1302, mode Windowed.
+[2024.04.02-07.26.05:976][958]LogViewport: Scene viewport resized to 2213x1301, mode Windowed.
+[2024.04.02-07.26.06:113][972]LogViewport: Scene viewport resized to 2213x1302, mode Windowed.
+[2024.04.02-07.26.06:144][973]LogViewport: Scene viewport resized to 2213x1300, mode Windowed.
+[2024.04.02-07.26.41:727][541]Cmd: EDIT COPY
+[2024.04.02-07.26.42:049][572]Cmd: EDIT PASTE
+[2024.04.02-07.26.55:049][793]LogEditorViewport: Clicking Background
+[2024.04.02-07.27.49:061][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-07.27.49:124][153]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-07.27.49:209][153]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_PlayerCharacter
+[2024.04.02-07.27.49:210][153]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_PlayerCharacter4E3EE50545ED6D2DB7557D99ECA8F460.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset'
+[2024.04.02-07.27.49:220][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 636 ms)
+[2024.04.02-07.27.49:222][153]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2024.04.02-07.27.49:222][153]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2024.04.02-07.27.59:427][775]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2024.04.02-07.27.59:494][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.02-07.28.03:360][ 80]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.02-07.28.03:380][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.02-07.28.03:380][ 80]PIE: New page: PIE session: Main (02.04.2024, 11:28:03)
+[2024.04.02-07.28.03:415][ 80]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.04.02-07.28.03:419][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003526s)
+[2024.04.02-07.28.03:419][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003588s)
+[2024.04.02-07.28.03:430][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.02-07.28.03:431][ 80]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-07.28.03:432][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-07.28.03:432][ 80]LogAIModule: Creating AISystem for world Main
+[2024.04.02-07.28.03:432][ 80]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2024.04.02-07.28.03:433][ 80]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.02-07.28.03:433][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.02-07.28.03:433][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.02-07.28.03:433][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.02-07.28.03:433][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.02-07.28.03:433][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.02-07.28.03:433][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.02-07.28.03:433][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.02-07.28.03:433][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.02-07.28.03:433][ 80]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.02-07.28.03:433][ 80]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.02-07.28.03:433][ 80]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.02-07.28.03:437][ 80]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.02-07.28.03:475][ 80]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2024.04.02-07.28.03:475][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.02-07.28.03:475][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.02-07.28.03:475][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.02-07.28.03:475][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.02-07.28.03:475][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.02-07.28.03:478][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.02-07.28.03:478][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.02-07.28.03:478][ 80]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.02-07.28.03:478][ 80]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2024.04.02-07.28.03:478][ 80]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.02-07.28.03:482][ 80]LogLoad: Game class is 'BP_GameMode_Main_C'
+[2024.04.02-07.28.03:483][ 80]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.04.02-09.28.03
+[2024.04.02-07.28.03:483][ 80]LogWorld: Bringing up level for play took: 0.001334
+[2024.04.02-07.28.03:487][ 80]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.04.02-07.28.03:488][ 80]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.02-07.28.03:488][ 80]PIE: Server logged in
+[2024.04.02-07.28.03:489][ 80]PIE: Play in editor total start time 0,121 seconds.
+[2024.04.02-07.28.24:556][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-07.28.24:557][690]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.04.02-07.28.24:557][690]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.02-07.28.24:557][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-07.28.24:560][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.02-07.28.24:563][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-07.28.24:574][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-07.28.24:575][690]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.02-07.28.24:575][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.02-07.28.24:577][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.02-07.28.24:584][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.02-07.28.24:636][691]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.04.02-07.29.13:757][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.02-07.29.13:770][849]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto1
+[2024.04.02-07.29.13:771][849]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main_Auto12F5D61FE40FE2DB8B4BE949087ECB99E.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2024.04.02-07.29.13:773][849]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Maps/Main_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.02-07.29.13:773][849]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.029
+[2024.04.02-07.29.13:773][849]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2024.04.02-07.34.21:064][361]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.04.02-07.34.27:347][938]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.04.02-07.34.27:356][938]LogContentBrowser: Creating deferred item: NewInterface
+[2024.04.02-07.34.27:376][940]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2024.04.02-07.34.42:873][648]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_TriggerReciever
+[2024.04.02-07.34.42:888][648]LogContentBrowser: End creating deferred item NewInterface
+[2024.04.02-07.37.47:045][611]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.02-07.37.47:061][611]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.02-07.37.47:069][611]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.02-07.37.47:081][612]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.02-07.37.54:596][432]LogContentBrowser: Attempting asset rename: NewBlueprint -> OverlapTrigger
+[2024.04.02-07.37.54:614][432]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.02-07.37.56:885][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Content/OverlapTrigger.OverlapTrigger
+[2024.04.02-07.37.56:886][659]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-07.37.56:886][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-07.37.57:029][659]LogViewport: Scene viewport resized to 1849x1225, mode Windowed.
+[2024.04.02-07.39.06:797][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-07.39.06:868][777]LogSavePackage: Moving output files for package: /Game/Content/OverlapTrigger
+[2024.04.02-07.39.06:868][777]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/OverlapTrigger94557BC2487145D1F629AA8B3B466AE5.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/OverlapTrigger.uasset'
+[2024.04.02-07.39.06:879][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 718 ms)
+[2024.04.02-07.39.06:880][777]AssetCheck: New page: Asset Save: OverlapTrigger
+[2024.04.02-07.39.06:880][777]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/OverlapTrigger.OverlapTrigger
+[2024.04.02-07.40.51:587][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.02-07.40.51:589][501]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.040
+[2024.04.02-07.40.51:590][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/BPI_TriggerReciever] ([2] browsable assets)...
+[2024.04.02-07.40.51:590][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/BPI_TriggerReciever]
+[2024.04.02-07.40.51:591][501]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/BPI_TriggerReciever_Auto2
+[2024.04.02-07.40.51:591][501]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BPI_TriggerReciever_Auto291E843DC4518C7617219EC9E7DF8EDB7.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Content/BPI_TriggerReciever_Auto2.uasset'
+[2024.04.02-07.40.51:592][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/OverlapTrigger] ([2] browsable assets)...
+[2024.04.02-07.40.51:592][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/OverlapTrigger]
+[2024.04.02-07.40.51:595][501]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/OverlapTrigger_Auto2
+[2024.04.02-07.40.51:596][501]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/OverlapTrigger_Auto22CEE2C3C43EE99067B51A1AC2600A024.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Content/OverlapTrigger_Auto2.uasset'
+[2024.04.02-07.40.51:596][501]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.04.02-07.41.48:478][590]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: ================================================
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Total job queries 12, among them cache hits 2 (16.67%)
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Tracking 7 distinct input hashes that result in 6 distinct outputs (85.71%)
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: RAM used: 148,13 KiB of 819,20 MiB budget. Usage: 0.02%
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Job execution time: average 0.90 s, max 0.90 s
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 0.92
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Shader code size: average 29,648 KiB, min 29,648 KiB, max 29,648 KiB
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.92 s
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Average processing rate: 1.09 jobs/sec
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Total thread time: 0,168 s
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Total thread preprocess time: 0,038 s
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Percentage time preprocessing: 22.92%
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Effective parallelization: 0.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.04.02-07.41.49:432][649]LogShaderCompilers: Display: ================================================
+[2024.04.02-07.43.23:400][488]LogContentBrowser: Attempting asset rename: OverlapTrigger -> BC_OverlapTrigger
+[2024.04.02-07.43.23:480][488]LogMetaData: Removing '/Game/Content/BC_OverlapTrigger.BC_OverlapTrigger:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Content/OverlapTrigger.PackageMetaData'
+[2024.04.02-07.43.23:480][488]LogMetaData: Removing '/Game/Content/BC_OverlapTrigger.SKEL_BC_OverlapTrigger_C' ref from Metadata '/Game/Content/OverlapTrigger.PackageMetaData'
+[2024.04.02-07.43.23:480][488]LogMetaData: Removing '/Game/Content/BC_OverlapTrigger.BC_OverlapTrigger_C' ref from Metadata '/Game/Content/OverlapTrigger.PackageMetaData'
+[2024.04.02-07.43.23:480][488]LogMetaData: Removing '/Game/Content/BC_OverlapTrigger.BC_OverlapTrigger:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Content/OverlapTrigger.PackageMetaData'
+[2024.04.02-07.43.23:480][488]LogMetaData: Removing '/Game/Content/BC_OverlapTrigger.BC_OverlapTrigger:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Content/OverlapTrigger.PackageMetaData'
+[2024.04.02-07.43.23:480][488]LogMetaData: Removing '/Game/Content/BC_OverlapTrigger.BC_OverlapTrigger:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Content/OverlapTrigger.PackageMetaData'
+[2024.04.02-07.43.23:480][488]LogMetaData: Removing '/Game/Content/BC_OverlapTrigger.SKEL_BC_OverlapTrigger_C:BndEvt__OverlapTrigger_Collider_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Content/OverlapTrigger.PackageMetaData'
+[2024.04.02-07.43.23:480][488]LogMetaData: Removing '/Game/Content/BC_OverlapTrigger.SKEL_BC_OverlapTrigger_C:UserConstructionScript' ref from Metadata '/Game/Content/OverlapTrigger.PackageMetaData'
+[2024.04.02-07.43.23:494][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-07.43.23:563][488]LogSavePackage: Moving output files for package: /Game/Content/BC_OverlapTrigger
+[2024.04.02-07.43.23:563][488]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BC_OverlapTrigger8AADD0C94ECB72980878FC93B9FA7910.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BC_OverlapTrigger.uasset'
+[2024.04.02-07.43.23:585][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 809 ms)
+[2024.04.02-07.43.23:608][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.02-07.43.23:620][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.02-07.43.23:632][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.02-07.43.23:636][488]AssetCheck: New page: Asset Save: BC_OverlapTrigger
+[2024.04.02-07.43.23:636][488]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger
+[2024.04.02-07.48.18:695][547]LogSlate: Took 0.005119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.02-07.51.19:688][846]BlueprintLog: New page: Compile BC_OverlapTrigger
+[2024.04.02-07.51.19:710][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.02-07.51.19:720][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-07.51.19:779][846]LogSavePackage: Moving output files for package: /Game/Content/BC_OverlapTrigger
+[2024.04.02-07.51.19:780][846]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BC_OverlapTrigger5C264F1442BC566B86B3F5AC3D2DA8AE.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BC_OverlapTrigger.uasset'
+[2024.04.02-07.51.19:787][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 878 ms)
+[2024.04.02-07.51.19:789][846]AssetCheck: New page: Asset Save: BC_OverlapTrigger
+[2024.04.02-07.51.19:789][846]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger
+[2024.04.02-07.51.21:637][991]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2024.04.02-07.51.21:747][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.02-07.51.21:773][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-07.51.21:907][991]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_PlayerCharacter
+[2024.04.02-07.51.21:908][991]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_PlayerCharacterFB82630D4CE7AAF1AFCFB4B92A149C63.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset'
+[2024.04.02-07.51.21:917][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 1.02 sec)
+[2024.04.02-07.51.21:989][991]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2024.04.02-07.51.21:990][991]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2024.04.02-07.51.23:934][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.02-07.51.23:940][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-07.51.24:020][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.02-07.51.24:041][140]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.04.02-07.51.24:042][140]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/MainE950D2C74E12B91AF27E5E886A378411.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.04.02-07.51.24:048][140]LogFileHelpers: Saving map 'Main' took 0.058
+[2024.04.02-07.51.24:050][140]LogSavePackage: Moving output files for package: /Game/Content/BPI_TriggerReciever
+[2024.04.02-07.51.24:050][140]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BPI_TriggerReciever090226E84470617235B7A8BA9498604E.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BPI_TriggerReciever.uasset'
+[2024.04.02-07.51.24:062][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 1.14 sec)
+[2024.04.02-07.51.24:065][140]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.02-07.51.24:065][140]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.04.02-07.51.24:065][140]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BPI_TriggerReciever.BPI_TriggerReciever
+[2024.04.02-07.51.26:805][404]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger_C
+[2024.04.02-07.51.26:805][404]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger_C
+[2024.04.02-07.51.26:807][404]LogActorFactory: Actor Factory spawned Blueprint /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger as actor: BC_OverlapTrigger_C /Game/Maps/Main.Main:PersistentLevel.BC_OverlapTrigger_C_0
+[2024.04.02-07.51.26:807][404]LogActorFactory: Actor Factory spawned Blueprint /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger as actor: BC_OverlapTrigger_C /Game/Maps/Main.Main:PersistentLevel.BC_OverlapTrigger_C_0
+[2024.04.02-07.51.26:810][404]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.02-07.51.27:413][456]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger_C
+[2024.04.02-07.51.27:413][456]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger_C
+[2024.04.02-07.51.27:415][456]LogActorFactory: Actor Factory spawned Blueprint /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger as actor: BC_OverlapTrigger_C /Game/Maps/Main.Main:PersistentLevel.BC_OverlapTrigger_C_1
+[2024.04.02-07.51.27:416][456]LogActorFactory: Actor Factory spawned Blueprint /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger as actor: BC_OverlapTrigger_C /Game/Maps/Main.Main:PersistentLevel.BC_OverlapTrigger_C_1
+[2024.04.02-07.51.46:252][159]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.02-07.51.52:428][730]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.02-07.51.56:525][ 87]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.02-07.51.57:870][222]LogEditorViewport: Clicking Background
+[2024.04.02-07.52.07:242][ 53]LogEditorViewport: Clicking Background
+[2024.04.02-07.52.34:819][539]LogEditorViewport: Clicking Background
+[2024.04.02-07.53.44:292][671]BlueprintLog: New page: Compile BC_OverlapTrigger
+[2024.04.02-07.53.44:323][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.02-07.53.44:335][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-07.53.44:388][671]LogSavePackage: Moving output files for package: /Game/Content/BC_OverlapTrigger
+[2024.04.02-07.53.44:389][671]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BC_OverlapTrigger8EFE368C41782357871D37AAB0612041.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BC_OverlapTrigger.uasset'
+[2024.04.02-07.53.44:398][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.20 sec)
+[2024.04.02-07.53.44:399][671]AssetCheck: New page: Asset Save: BC_OverlapTrigger
+[2024.04.02-07.53.44:399][671]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger
+[2024.04.02-07.53.45:141][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-07.53.45:212][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.02-07.53.45:225][721]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.04.02-07.53.45:226][721]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main06DF1D7945315F4EFE24168AC57C4177.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.04.02-07.53.45:232][721]LogFileHelpers: Saving map 'Main' took 0.050
+[2024.04.02-07.53.45:238][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.30 sec)
+[2024.04.02-07.53.45:241][721]AssetCheck: New page: Asset Save: Main
+[2024.04.02-07.53.45:241][721]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.04.02-07.53.52:445][435]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.02-07.53.52:445][435]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.02-07.54.15:445][603]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.02-07.54.15:445][603]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.02-07.54.28:833][906]LogEditorViewport: Clicking Background
+[2024.04.02-07.55.17:312][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.02-07.55.17:318][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-07.55.17:404][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.02-07.55.17:414][152]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.04.02-07.55.17:415][152]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main8443B85F4ECB63AA8A53A8B6FB20F507.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.04.02-07.55.17:420][152]LogFileHelpers: Saving map 'Main' took 0.048
+[2024.04.02-07.55.17:429][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.41 sec)
+[2024.04.02-07.55.17:431][152]AssetCheck: New page: Asset Save: Main
+[2024.04.02-07.55.17:431][152]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.04.02-07.55.25:442][931]LogSlate: Window 'View Changes' being destroyed
+[2024.04.02-07.55.25:455][931]LogSlate: Window 'View Changes' being destroyed
+[2024.04.02-07.56.23:438][966]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.02-07.56.23:447][966]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.02-07.56.23:457][966]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.02-07.56.23:465][967]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.02-07.56.38:275][576]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MovingObject
+[2024.04.02-07.56.38:283][576]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.02-07.56.39:831][748]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Content/BP_MovingObject.BP_MovingObject
+[2024.04.02-07.56.39:831][748]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-07.56.39:832][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-07.56.39:978][748]LogViewport: Scene viewport resized to 1849x1225, mode Windowed.
+[2024.04.02-07.58.02:737][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-07.58.02:875][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-08.00.57:129][112]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.02-08.01.04:548][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.01.04:609][638]LogSavePackage: Moving output files for package: /Game/Content/BP_MovingObject
+[2024.04.02-08.01.04:609][638]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_MovingObject790346C444853210491DBEB0EB0CBFE0.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BP_MovingObject.uasset'
+[2024.04.02-08.01.04:620][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.48 sec)
+[2024.04.02-08.01.04:621][638]AssetCheck: New page: Asset Save: BP_MovingObject
+[2024.04.02-08.01.04:621][638]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BP_MovingObject.BP_MovingObject
+[2024.04.02-08.01.05:529][707]BlueprintLog: New page: Compile BP_MovingObject
+[2024.04.02-08.01.05:584][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.02-08.01.11:591][235]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Content/BP_MovingObject.BP_MovingObject_C
+[2024.04.02-08.01.11:591][235]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Content/BP_MovingObject.BP_MovingObject_C
+[2024.04.02-08.01.11:593][235]LogActorFactory: Actor Factory spawned Blueprint /Game/Content/BP_MovingObject.BP_MovingObject as actor: BP_MovingObject_C /Game/Maps/Main.Main:PersistentLevel.BP_MovingObject_C_0
+[2024.04.02-08.01.11:594][235]LogActorFactory: Actor Factory spawned Blueprint /Game/Content/BP_MovingObject.BP_MovingObject as actor: BP_MovingObject_C /Game/Maps/Main.Main:PersistentLevel.BP_MovingObject_C_0
+[2024.04.02-08.01.12:400][286]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Content/BP_MovingObject.BP_MovingObject_C
+[2024.04.02-08.01.12:400][286]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Content/BP_MovingObject.BP_MovingObject_C
+[2024.04.02-08.01.12:404][286]LogActorFactory: Actor Factory spawned Blueprint /Game/Content/BP_MovingObject.BP_MovingObject as actor: BP_MovingObject_C /Game/Maps/Main.Main:PersistentLevel.BP_MovingObject_C_1
+[2024.04.02-08.01.12:406][286]LogActorFactory: Actor Factory spawned Blueprint /Game/Content/BP_MovingObject.BP_MovingObject as actor: BP_MovingObject_C /Game/Maps/Main.Main:PersistentLevel.BP_MovingObject_C_1
+[2024.04.02-08.01.49:363][622]LogEditorViewport: Clicking Background
+[2024.04.02-08.01.55:864][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.01.55:966][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.02-08.01.55:978][267]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.04.02-08.01.55:978][267]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main0DBB3A6C474CE549B91124B47676ABE6.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.04.02-08.01.55:986][267]LogFileHelpers: Saving map 'Main' took 0.054
+[2024.04.02-08.01.55:991][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 1.61 sec)
+[2024.04.02-08.01.55:993][267]AssetCheck: New page: Asset Save: Main
+[2024.04.02-08.01.55:993][267]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.04.02-08.01.56:916][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.02-08.01.56:920][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.01.57:024][365]LogSavePackage: Moving output files for package: /Game/Content/BP_MovingObject
+[2024.04.02-08.01.57:024][365]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_MovingObject6B0E5ACB4FBA0906CE17DABC69777651.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BP_MovingObject.uasset'
+[2024.04.02-08.01.57:032][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.72 sec)
+[2024.04.02-08.01.57:034][365]AssetCheck: New page: Asset Save: BP_MovingObject
+[2024.04.02-08.01.57:034][365]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BP_MovingObject.BP_MovingObject
+[2024.04.02-08.01.59:336][525]BlueprintLog: New page: Compile BP_MovingObject
+[2024.04.02-08.01.59:362][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.02-08.01.59:980][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.02-08.05.54:310][138]LogDerivedDataCache: C:/Users/htk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.158 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 446 files in 829 folders with total size 6 MiB.
+[2024.04.02-08.07.09:299][467]LogViewport: Scene viewport resized to 1202x739, mode Windowed.
+[2024.04.02-08.16.57:469][113]LogViewport: Scene viewport resized to 1849x1225, mode Windowed.
+[2024.04.02-08.20.01:270][720]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.02-08.21.43:235][805]BlueprintLog: New page: Compile BP_MovingObject
+[2024.04.02-08.21.43:275][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.02-08.21.43:290][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.21.43:368][805]LogSavePackage: Moving output files for package: /Game/Content/BP_MovingObject
+[2024.04.02-08.21.43:369][805]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_MovingObjectB37DAD1D45FF76CC08C9C09AF1FDADF4.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BP_MovingObject.uasset'
+[2024.04.02-08.21.43:377][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.81 sec)
+[2024.04.02-08.21.43:389][805]AssetCheck: New page: Asset Save: BP_MovingObject
+[2024.04.02-08.21.43:389][805]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BP_MovingObject.BP_MovingObject
+[2024.04.02-08.22.01:770][549]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.02-08.22.01:770][549]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.02-08.22.35:778][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.02-08.22.35:783][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.22.35:882][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.02-08.22.35:894][899]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.04.02-08.22.35:895][899]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/MainAC5F52494EDD4659E43675A391804601.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.04.02-08.22.35:901][899]LogFileHelpers: Saving map 'Main' took 0.050
+[2024.04.02-08.22.35:911][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1.94 sec)
+[2024.04.02-08.22.35:914][899]AssetCheck: New page: Asset Save: Main
+[2024.04.02-08.22.35:914][899]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.04.02-08.25.55:210][384]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Content/BPI_TriggerReciever.BPI_TriggerReciever
+[2024.04.02-08.25.55:211][384]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-08.25.55:211][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-08.29.31:261][166]BlueprintLog: New page: Compile BP_MovingObject
+[2024.04.02-08.29.31:292][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.02-08.29.31:303][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.29.31:355][166]LogSavePackage: Moving output files for package: /Game/Content/BP_MovingObject
+[2024.04.02-08.29.31:357][166]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_MovingObject36790B7442F81666AE9650B5725A5C7C.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BP_MovingObject.uasset'
+[2024.04.02-08.29.31:364][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.00 sec)
+[2024.04.02-08.29.31:368][166]AssetCheck: New page: Asset Save: BP_MovingObject
+[2024.04.02-08.29.31:368][166]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BP_MovingObject.BP_MovingObject
+[2024.04.02-08.29.44:006][ 41]BlueprintLog: New page: Compile BPI_TriggerReciever
+[2024.04.02-08.29.44:021][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.02-08.29.44:034][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.29.44:075][ 41]LogSavePackage: Moving output files for package: /Game/Content/BPI_TriggerReciever
+[2024.04.02-08.29.44:075][ 41]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BPI_TriggerReciever42DA90C14EB63AA00F2093AC90FB5332.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BPI_TriggerReciever.uasset'
+[2024.04.02-08.29.44:084][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.05 sec)
+[2024.04.02-08.29.44:089][ 41]AssetCheck: New page: Asset Save: BPI_TriggerReciever
+[2024.04.02-08.29.44:089][ 41]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BPI_TriggerReciever.BPI_TriggerReciever
+[2024.04.02-08.32.35:884][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.02-08.32.35:897][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto3
+[2024.04.02-08.32.35:897][781]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main_Auto3F57A46594FD6C5250616C9886623FC89.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Maps/Main_Auto3.umap'
+[2024.04.02-08.32.35:899][781]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Maps/Main_Auto3.umap is in the /Temp path, will not scan.
+[2024.04.02-08.32.35:899][781]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Main_Auto3 is in the /Temp path, will not scan.
+[2024.04.02-08.32.35:899][781]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Main_Auto3 is in the /Temp path, will not scan.
+[2024.04.02-08.32.35:900][781]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.029
+[2024.04.02-08.32.35:900][781]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2024.04.02-08.32.35:900][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/BC_OverlapTrigger] ([2] browsable assets)...
+[2024.04.02-08.32.35:900][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/BC_OverlapTrigger]
+[2024.04.02-08.32.35:905][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/BC_OverlapTrigger_Auto3
+[2024.04.02-08.32.35:905][781]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BC_OverlapTrigger_Auto31ABA33084CB6CC92430513AA5B346D4D.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Content/BC_OverlapTrigger_Auto3.uasset'
+[2024.04.02-08.32.35:909][781]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: ================================================
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Total job queries 16, among them cache hits 2 (12.50%)
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Tracking 11 distinct input hashes that result in 8 distinct outputs (72.73%)
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: RAM used: 225,65 KiB of 819,20 MiB budget. Usage: 0.03%
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Shaders Compiled: 5
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Jobs assigned 8, completed 5 (62.50%)
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Average time worker was idle: 3238.77 s
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.08 s
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 1.11 s
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Job life time (pending + execution): average 0.95 s, max 1.13
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Shader code size: average 32,042 KiB, min 29,648 KiB, max 35,125 KiB
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.77 s
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Average processing rate: 2.83 jobs/sec
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Total thread time: 1,247 s
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Total thread preprocess time: 0,2 s
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Percentage time preprocessing: 16.03%
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Effective parallelization: 0.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.16 sec, max 0.17 sec, min 0.15 sec)
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.40% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2024.04.02-08.35.48:895][665]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 25.11% of total time (compiled    2 times, average 0.16 sec, max 0.17 sec, min 0.15 sec)
+[2024.04.02-08.35.48:896][665]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.61% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.04.02-08.35.48:896][665]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.87% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.04.02-08.35.48:896][665]LogShaderCompilers: Display: ================================================
+[2024.04.02-08.40.25:275][134]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.04.02-08.40.25:289][134]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.02-08.40.35:818][793]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.04.02-08.40.35:837][793]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.02-08.46.05:414][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.46.05:477][174]LogSavePackage: Moving output files for package: /Game/Content/BC_OverlapTrigger
+[2024.04.02-08.46.05:478][174]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BC_OverlapTriggerFFDC8A4A4760E9A01E78D890CF7A9AF5.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BC_OverlapTrigger.uasset'
+[2024.04.02-08.46.05:486][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.12 sec)
+[2024.04.02-08.46.05:488][174]AssetCheck: New page: Asset Save: BC_OverlapTrigger
+[2024.04.02-08.46.05:488][174]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger
+[2024.04.02-08.46.24:336][348]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.02-08.46.45:312][733]BlueprintLog: New page: Compile BC_OverlapTrigger
+[2024.04.02-08.46.45:344][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.02-08.46.45:367][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.46.45:427][733]LogSavePackage: Moving output files for package: /Game/Content/BC_OverlapTrigger
+[2024.04.02-08.46.45:429][733]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BC_OverlapTrigger57BD122B4D105D6FB665C99932C8EF78.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BC_OverlapTrigger.uasset'
+[2024.04.02-08.46.45:436][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.19 sec)
+[2024.04.02-08.46.45:438][733]AssetCheck: New page: Asset Save: BC_OverlapTrigger
+[2024.04.02-08.46.45:438][733]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger
+[2024.04.02-08.47.35:523][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.02-08.47.35:537][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto4
+[2024.04.02-08.47.35:537][ 56]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main_Auto4BB2224274591BDEC314037AA04AACF28.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Maps/Main_Auto4.umap'
+[2024.04.02-08.47.35:548][ 56]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Maps/Main_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.02-08.47.35:548][ 56]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Main_Auto4 is in the /Temp path, will not scan.
+[2024.04.02-08.47.35:548][ 56]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Main_Auto4 is in the /Temp path, will not scan.
+[2024.04.02-08.47.35:549][ 56]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.038
+[2024.04.02-08.47.35:549][ 56]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.04.02-08.48.52:689][898]BlueprintLog: New page: Compile BPI_TriggerReciever
+[2024.04.02-08.48.52:707][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.02-08.48.52:741][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.48.52:798][898]LogSavePackage: Moving output files for package: /Game/Content/BPI_TriggerReciever
+[2024.04.02-08.48.52:799][898]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BPI_TriggerReciever32C26C474CF6B7125AE4BEBA6DDF695B.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BPI_TriggerReciever.uasset'
+[2024.04.02-08.48.52:807][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.26 sec)
+[2024.04.02-08.48.52:811][898]AssetCheck: New page: Asset Save: BPI_TriggerReciever
+[2024.04.02-08.48.52:811][898]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BPI_TriggerReciever.BPI_TriggerReciever
+[2024.04.02-08.49.00:847][538]BlueprintLog: New page: Compile BP_MovingObject
+[2024.04.02-08.49.00:878][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.02-08.49.00:893][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.49.00:990][538]LogSavePackage: Moving output files for package: /Game/Content/BP_MovingObject
+[2024.04.02-08.49.00:991][538]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_MovingObject392991E044A7821B3A4AB3836A16A334.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BP_MovingObject.uasset'
+[2024.04.02-08.49.00:999][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.36 sec)
+[2024.04.02-08.49.01:000][538]AssetCheck: New page: Asset Save: BP_MovingObject
+[2024.04.02-08.49.01:000][538]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BP_MovingObject.BP_MovingObject
+[2024.04.02-08.50.27:515][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.50.27:557][796]LogSavePackage: Moving output files for package: /Game/Content/BC_OverlapTrigger
+[2024.04.02-08.50.27:558][796]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BC_OverlapTriggerBC1C64B0412C30B8C05B2DBCBAA4F9EA.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BC_OverlapTrigger.uasset'
+[2024.04.02-08.50.27:566][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.41 sec)
+[2024.04.02-08.50.27:568][796]AssetCheck: New page: Asset Save: BC_OverlapTrigger
+[2024.04.02-08.50.27:568][796]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BC_OverlapTrigger.BC_OverlapTrigger
+[2024.04.02-08.50.39:002][580]BlueprintLog: New page: Compile BC_OverlapTrigger
+[2024.04.02-08.50.39:027][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.02-08.50.40:821][705]BlueprintLog: New page: Compile BP_MovingObject
+[2024.04.02-08.50.40:852][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.02-08.50.40:867][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.50.40:965][705]LogSavePackage: Moving output files for package: /Game/Content/BP_MovingObject
+[2024.04.02-08.50.40:965][705]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_MovingObjectBCEB6F73419FC401FCD1878DDB3FEAF9.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BP_MovingObject.uasset'
+[2024.04.02-08.50.40:973][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.52 sec)
+[2024.04.02-08.50.40:975][705]AssetCheck: New page: Asset Save: BP_MovingObject
+[2024.04.02-08.50.40:975][705]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BP_MovingObject.BP_MovingObject
+[2024.04.02-08.55.53:490][978]BlueprintLog: New page: Compile BP_MovingObject
+[2024.04.02-08.55.53:535][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.02-08.55.53:551][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-08.55.53:648][978]LogSavePackage: Moving output files for package: /Game/Content/BP_MovingObject
+[2024.04.02-08.55.53:650][978]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_MovingObject42A24D644F90AFEDC0CAD9A8C071E0CE.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BP_MovingObject.uasset'
+[2024.04.02-08.55.53:657][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.62 sec)
+[2024.04.02-08.55.53:660][978]AssetCheck: New page: Asset Save: BP_MovingObject
+[2024.04.02-08.55.53:660][978]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BP_MovingObject.BP_MovingObject
+[2024.04.02-08.57.35:761][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.02-08.57.35:776][944]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto5
+[2024.04.02-08.57.35:776][944]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main_Auto56501C18249A3BC4B6AC6A09852E58F17.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Maps/Main_Auto5.umap'
+[2024.04.02-08.57.35:777][944]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Maps/Main_Auto5.umap is in the /Temp path, will not scan.
+[2024.04.02-08.57.35:777][944]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Main_Auto5 is in the /Temp path, will not scan.
+[2024.04.02-08.57.35:777][944]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Main_Auto5 is in the /Temp path, will not scan.
+[2024.04.02-08.57.35:777][944]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.029
+[2024.04.02-08.57.35:777][944]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2024.04.02-08.57.35:777][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/BP_MovingObject] ([2] browsable assets)...
+[2024.04.02-08.57.35:778][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/BP_MovingObject]
+[2024.04.02-08.57.35:784][944]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/BP_MovingObject_Auto5
+[2024.04.02-08.57.35:784][944]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_MovingObject_Auto5038D6F034537CA2DE7931F900C2663D0.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Autosaves/Game/Content/BP_MovingObject_Auto5.uasset'
+[2024.04.02-08.57.35:785][944]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.04.02-09.02.37:475][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.02-09.02.37:480][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-09.02.37:547][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.02-09.02.37:559][952]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.04.02-09.02.37:559][952]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main0300C7504455B5D3DC047588B0F1C4E9.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.04.02-09.02.37:566][952]LogFileHelpers: Saving map 'Main' took 0.053
+[2024.04.02-09.02.37:573][952]LogSavePackage: Moving output files for package: /Game/Content/BP_MovingObject
+[2024.04.02-09.02.37:573][952]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/BP_MovingObjectCE4850594F8E1C43397C29B2C2BADD39.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Content/BP_MovingObject.uasset'
+[2024.04.02-09.02.37:583][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.72 sec)
+[2024.04.02-09.02.37:585][952]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.02-09.02.37:585][952]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.04.02-09.02.37:585][952]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Content/BP_MovingObject.BP_MovingObject
+[2024.04.02-09.02.46:177][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.02-09.02.47:817][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-09.02.47:897][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.02-09.02.47:908][667]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.04.02-09.02.47:909][667]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main1453A0E04686C5AFDD876E96690DA315.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.04.02-09.02.47:915][667]LogFileHelpers: Saving map 'Main' took 0.049
+[2024.04.02-09.02.47:922][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.83 sec)
+[2024.04.02-09.02.47:924][667]AssetCheck: New page: Asset Save: Main
+[2024.04.02-09.02.47:924][667]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.04.02-09.02.47:980][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-09.02.48:062][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.02-09.02.48:075][669]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.04.02-09.02.48:076][669]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/MainEC96FCCD4BF82B9A80977D827CA9FAD7.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.04.02-09.02.48:082][669]LogFileHelpers: Saving map 'Main' took 0.047
+[2024.04.02-09.02.48:090][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.94 sec)
+[2024.04.02-09.02.48:092][669]AssetCheck: New page: Asset Save: Main
+[2024.04.02-09.02.48:092][669]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.04.02-09.02.48:645][723]Cmd: ACTOR SELECT ALL DESCENDANTS
+[2024.04.02-09.02.58:020][557]LogSlate: Window 'View Changes' being destroyed
+[2024.04.02-09.02.58:038][557]LogSlate: Window 'View Changes' being destroyed
+[2024.04.02-09.03.05:067][186]LogSlate: Window 'View Changes' being destroyed
+[2024.04.02-09.03.05:080][186]LogSlate: Window 'View Changes' being destroyed
