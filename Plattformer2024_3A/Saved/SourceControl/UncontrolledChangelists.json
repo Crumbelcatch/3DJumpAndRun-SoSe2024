@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap",
+				"F:/Epic Games/UE_5.3/Engine/Content/EditorShellMaterials/M_ShellMaster.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Material/MI_Inst_64_Grid_Red.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Material/MI_Inst_64_Grid_blue.uasset",
 				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/UI/Components/WBP_Button_Normal.uasset",
 				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/UI/Components/WBP_Button_Highlighted.uasset",
 				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Gameplay/WBP_Menu_Pause.uasset",
@@ -12,11 +17,7 @@
 				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Input/UI/IA_TogglePauseMenu.uasset",
 				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset",
 				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Core/BPI_GameMode.uasset",
-				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Core/BP_GameMode_Main.uasset",
-				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset",
-				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap",
-				"F:/Epic Games/UE_5.3/Engine/Content/EditorShellMaterials/M_ShellMaster.uasset",
-				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Material/MI_Inst_64_Grid_Red.uasset"
+				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Core/BP_GameMode_Main.uasset"
 			]
 		}
 	]
