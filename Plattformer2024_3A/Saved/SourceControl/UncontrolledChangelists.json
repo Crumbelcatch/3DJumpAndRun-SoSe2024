@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Uni/Repositorys/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset",
+				"D:/Uni/Repositorys/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/UI/Debug/WBP_CheatMenu.uasset",
+				"D:/Uni/Repositorys/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap",
+				"D:/Uni/Repositorys/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Gameplay/MovingObject/BP_MovingObjectOnSpline.uasset",
 				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/UI/Components/WBP_Button_Normal.uasset",
 				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/UI/Components/WBP_Button_Highlighted.uasset",
 				"C:/Users/htk/Documents/Unreal Projects/3A Lantow Malte/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Gameplay/WBP_Menu_Pause.uasset",
