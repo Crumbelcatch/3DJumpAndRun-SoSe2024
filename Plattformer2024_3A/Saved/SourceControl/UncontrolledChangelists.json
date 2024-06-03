@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap",
+				"F:/Epic Games/UE_5.3/Engine/Content/EditorShellMaterials/M_ShellMaster.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Material/MI_Inst_64_Grid_Red.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Material/MI_Inst_64_Grid_blue.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main_BuiltData.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Material/M_LayoutMap.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/PROTOTYPE_ASSETS/PROTOTYPE_Platform_Kolben.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/PROTOTYPE_ASSETS/PROTOTYPE_Platform_Base.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/PROTOTYPE_ASSETS/Material.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/PROTOTYPE_ASSETS/Material_001.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/PROTOTYPE_ASSETS/PROTOTYPE_Chair.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/PROTOTYPE_ASSETS/PROTOTYPE_Table.uasset",
+				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/PROTOTYPE_ASSETS/PROTOTYPE_Trashcan.uasset",
 				"D:/Uni/Repositorys/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset",
 				"D:/Uni/Repositorys/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/UI/Debug/WBP_CheatMenu.uasset",
 				"D:/Uni/Repositorys/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap",
@@ -31,14 +45,7 @@
 				"C:/Users/htk/Documents/Unreal Projects/3A_Malte_Lantow/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/_GENERATED/htk/Combined_83F70FD3.uasset",
 				"C:/Users/htk/Documents/Unreal Projects/3A_Malte_Lantow/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/_GENERATED/htk/Combined_D506C58E.uasset",
 				"C:/Users/htk/Documents/Unreal Projects/3A_Malte_Lantow/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/_GENERATED/htk/Combined_F63FA0AA.uasset",
-				"C:/Users/htk/Documents/Unreal Projects/3A_Malte_Lantow/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/UI/Gameplay/WBP_PauseMenuStyle.uasset",
-				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset",
-				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap",
-				"F:/Epic Games/UE_5.3/Engine/Content/EditorShellMaterials/M_ShellMaster.uasset",
-				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Material/MI_Inst_64_Grid_Red.uasset",
-				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Material/MI_Inst_64_Grid_blue.uasset",
-				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main_BuiltData.uasset",
-				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Material/M_LayoutMap.uasset"
+				"C:/Users/htk/Documents/Unreal Projects/3A_Malte_Lantow/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/UI/Gameplay/WBP_PauseMenuStyle.uasset"
 			]
 		}
 	]
