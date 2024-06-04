@@ -1178,3 +1178,40 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.06.04-08.09.37:908][289]LogSlate: Window 'Plugins' being destroyed
 [2024.06.04-08.09.37:908][289]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2024.06.04-08.09.37:908][289]LogDirectoryWatcher: A directory notification for '../../../../../../Documents/GitHub/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Plugins/' was aborted.
+[2024.06.04-08.10.10:802][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-08.10.10:899][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Documents/GitHub/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.04-08.10.10:927][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.04-08.10.10:932][887]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.004290 seconds
+[2024.06.04-08.10.10:997][887]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.06.04-08.10.10:997][887]LogSavePackage: Moving '../../../../../../Documents/GitHub/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main9E44F65D4EF2B52EBBE9D78710CDADC5.tmp' to '../../../../../../Documents/GitHub/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.06.04-08.10.11:003][887]LogFileHelpers: Saving map 'Main' took 0.104
+[2024.06.04-08.10.11:011][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms
+[2024.06.04-08.10.11:013][887]AssetCheck: New page: Asset Save: Main
+[2024.06.04-08.10.11:013][887]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.06.04-08.10.12:580][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-08.10.12:625][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Documents/GitHub/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.04-08.10.12:652][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.04-08.10.12:718][979]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.06.04-08.10.12:718][979]LogSavePackage: Moving '../../../../../../Documents/GitHub/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/Main3FD7BDE74DE9C83DA8315194475BDB6B.tmp' to '../../../../../../Documents/GitHub/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.06.04-08.10.12:725][979]LogFileHelpers: Saving map 'Main' took 0.101
+[2024.06.04-08.10.12:732][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 362 ms)
+[2024.06.04-08.10.12:735][979]AssetCheck: New page: Asset Save: Main
+[2024.06.04-08.10.12:735][979]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.06.04-08.10.34:452][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.04-08.10.34:683][452]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.04-08.10.48:300][276]LogHttp: Warning: 0000080078457800: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE239376-4C87-7FA7-BFF3-4CB24169D436%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5203557f479bbb60c250f1bb0834f6f9%7C2d5e423f53f4447bb683467165011d74%7C5a1a9ffd-bf0b-43f0-950b-4ee9694c8bb2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 122, actual payload size: 122, elapsed: 30.30s
+[2024.06.04-08.10.48:300][276]LogHttp: Warning: 0000080078457800 Response Header Server: awselb/2.0
+[2024.06.04-08.10.48:300][276]LogHttp: Warning: 0000080078457800 Response Header Date: Tue, 04 Jun 2024 08:10:49 GMT
+[2024.06.04-08.10.48:300][276]LogHttp: Warning: 0000080078457800 Response Header Content-Type: text/html
+[2024.06.04-08.10.48:300][276]LogHttp: Warning: 0000080078457800 Response Header Content-Length: 122
+[2024.06.04-08.10.48:300][276]LogHttp: Warning: 0000080078457800 Response Header Connection: keep-alive
+[2024.06.04-08.11.00:326][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-08.11.00:435][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Documents/GitHub/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.04-08.11.00:466][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.06.04-08.11.00:534][989]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.06.04-08.11.00:535][989]LogSavePackage: Moving '../../../../../../Documents/GitHub/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Saved/MainB16BD07B4203A4FD33FE12A213C61A28.tmp' to '../../../../../../Documents/GitHub/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap'
+[2024.06.04-08.11.00:541][989]LogFileHelpers: Saving map 'Main' took 0.106
+[2024.06.04-08.11.00:549][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 585 ms)
+[2024.06.04-08.11.00:551][989]AssetCheck: New page: Asset Save: Main
+[2024.06.04-08.11.00:551][989]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.06.04-08.11.11:240][402]LogDerivedDataCache: C:/Users/htk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.056 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 568 files in 1005 folders with total size 58 MiB.
