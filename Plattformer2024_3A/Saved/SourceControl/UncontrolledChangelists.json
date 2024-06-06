@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/htk/Documents/UNREAL STUFF REAL/Malte - 3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap",
+				"C:/Users/htk/Documents/UNREAL STUFF REAL/Malte - 3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Gameplay/UpgradeStation/BP_UpgradeStation.uasset",
+				"C:/Users/htk/Documents/UNREAL STUFF REAL/Malte - 3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/htk/Documents/UNREAL STUFF REAL/Malte - 3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BPI_Upgrades.uasset",
+				"C:/Users/htk/Documents/UNREAL STUFF REAL/Malte - 3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Gameplay/UpgradeStation/BP_JumpUpgrade.uasset",
+				"C:/Users/htk/Documents/UNREAL STUFF REAL/Malte - 3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BPI_PlayerManipulation.uasset",
+				"C:/Users/htk/Documents/UNREAL STUFF REAL/Malte - 3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Gameplay/UpgradeStation/BP_UmbrellaUpgrade.uasset",
 				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Characters/Player/BP_PlayerCharacter.uasset",
 				"C:/Users/malte/Documents/Unreal Projects/Unterricht SoSe2024/3DJumpAndRun-SoSe2024/Plattformer2024_3A/Content/Maps/Main.umap",
 				"F:/Epic Games/UE_5.3/Engine/Content/EditorShellMaterials/M_ShellMaster.uasset",
